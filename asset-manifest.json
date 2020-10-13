@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Iceland-slider/static/css/main.d8d98724.chunk.css",
+    "main.js": "/Iceland-slider/static/js/main.d45b9f96.chunk.js",
+    "main.js.map": "/Iceland-slider/static/js/main.d45b9f96.chunk.js.map",
+    "runtime-main.js": "/Iceland-slider/static/js/runtime-main.98fcd579.js",
+    "runtime-main.js.map": "/Iceland-slider/static/js/runtime-main.98fcd579.js.map",
+    "static/js/2.2e1fa8a3.chunk.js": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js",
+    "static/js/2.2e1fa8a3.chunk.js.map": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js.map",
+    "index.html": "/Iceland-slider/index.html",
+    "precache-manifest.f0f25732ffc9f16d15781cbf2f698ef1.js": "/Iceland-slider/precache-manifest.f0f25732ffc9f16d15781cbf2f698ef1.js",
+    "service-worker.js": "/Iceland-slider/service-worker.js",
+    "static/css/main.d8d98724.chunk.css.map": "/Iceland-slider/static/css/main.d8d98724.chunk.css.map",
+    "static/js/2.2e1fa8a3.chunk.js.LICENSE.txt": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/Iceland-slider/static/media/1.334a207c.jpg",
+    "static/media/2.jpg": "/Iceland-slider/static/media/2.76798903.jpg",
+    "static/media/3.jpg": "/Iceland-slider/static/media/3.f492a9dd.jpg",
+    "static/media/4.jpg": "/Iceland-slider/static/media/4.e4c4d38e.jpg",
+    "static/media/5.jpg": "/Iceland-slider/static/media/5.0ea2727d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98fcd579.js",
+    "static/js/2.2e1fa8a3.chunk.js",
+    "static/css/main.d8d98724.chunk.css",
+    "static/js/main.d45b9f96.chunk.js"
+  ]
+}
