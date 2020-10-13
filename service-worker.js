@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Iceland-slider/precache-manifest.f0f25732ffc9f16d15781cbf2f698ef1.js"
+  "/Iceland-slider/precache-manifest.720c22beb58b06ae46723de1ba71fc75.js"
 );
 
 self.addEventListener('message', (event) => {
