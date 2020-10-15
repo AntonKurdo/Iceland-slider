@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Iceland-slider/static/css/main.0ee773f3.chunk.css",
-    "main.js": "/Iceland-slider/static/js/main.8f843778.chunk.js",
-    "main.js.map": "/Iceland-slider/static/js/main.8f843778.chunk.js.map",
+    "main.css": "/Iceland-slider/static/css/main.1d7b997e.chunk.css",
+    "main.js": "/Iceland-slider/static/js/main.7cbb64a5.chunk.js",
+    "main.js.map": "/Iceland-slider/static/js/main.7cbb64a5.chunk.js.map",
     "runtime-main.js": "/Iceland-slider/static/js/runtime-main.98fcd579.js",
     "runtime-main.js.map": "/Iceland-slider/static/js/runtime-main.98fcd579.js.map",
     "static/js/2.2e1fa8a3.chunk.js": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js",
     "static/js/2.2e1fa8a3.chunk.js.map": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js.map",
     "index.html": "/Iceland-slider/index.html",
-    "precache-manifest.720c22beb58b06ae46723de1ba71fc75.js": "/Iceland-slider/precache-manifest.720c22beb58b06ae46723de1ba71fc75.js",
+    "precache-manifest.df1f19c63fce09b8a0a12c679330f604.js": "/Iceland-slider/precache-manifest.df1f19c63fce09b8a0a12c679330f604.js",
     "service-worker.js": "/Iceland-slider/service-worker.js",
-    "static/css/main.0ee773f3.chunk.css.map": "/Iceland-slider/static/css/main.0ee773f3.chunk.css.map",
+    "static/css/main.1d7b997e.chunk.css.map": "/Iceland-slider/static/css/main.1d7b997e.chunk.css.map",
     "static/js/2.2e1fa8a3.chunk.js.LICENSE.txt": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/Iceland-slider/static/media/1.334a207c.jpg",
     "static/media/2.jpg": "/Iceland-slider/static/media/2.76798903.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.98fcd579.js",
     "static/js/2.2e1fa8a3.chunk.js",
-    "static/css/main.0ee773f3.chunk.css",
-    "static/js/main.8f843778.chunk.js"
+    "static/css/main.1d7b997e.chunk.css",
+    "static/js/main.7cbb64a5.chunk.js"
   ]
 }

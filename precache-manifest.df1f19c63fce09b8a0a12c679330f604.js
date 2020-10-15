@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c610657d8f958f9333791e689aed971",
+    "revision": "b29f4236c75398668aa8e7e33856e49e",
     "url": "/Iceland-slider/index.html"
   },
   {
-    "revision": "cd42c3a26a749898379d",
-    "url": "/Iceland-slider/static/css/main.0ee773f3.chunk.css"
+    "revision": "3667974fdb2b5df1679f",
+    "url": "/Iceland-slider/static/css/main.1d7b997e.chunk.css"
   },
   {
     "revision": "26d542a4df5663febaea",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Iceland-slider/static/js/2.2e1fa8a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd42c3a26a749898379d",
-    "url": "/Iceland-slider/static/js/main.8f843778.chunk.js"
+    "revision": "3667974fdb2b5df1679f",
+    "url": "/Iceland-slider/static/js/main.7cbb64a5.chunk.js"
   },
   {
     "revision": "b964b1c3c568d252ec26",
