@@ -13,11 +13,17 @@
     border-radius: 50%;
     margin-right: 10px;
     cursor: pointer;
+    transition: all .15s linear;
+
     &:last-child {
         margin-right: 0;
+    }
+    &:hover {
+        background-color: darkcyan;
     }
 }
 
 .dot-item.active {
     transform: scale(1.5);
+    background-color: lightskyblue;
 }
